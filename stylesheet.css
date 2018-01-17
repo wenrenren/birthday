@@ -1087,7 +1087,7 @@ audio {
 }
 .balloons h2 {
 	text-transform: uppercase;
-	font-family: 'Signika', sans-serif;
+	font-family: '宋体', sans-serif;
 	font-size: 25px;
 	color: #BF4136;
 	text-shadow: 5px 5px 5px #FFF;
@@ -1272,7 +1272,7 @@ audio {
 	display: none;
 }
 .message p {
-	font-family: 'Signika', sans-serif;
+	font-family: '宋体', sans-serif;
 	font-size: 30px;
 	text-transform: uppercase;
 	color: #C4515C;
@@ -1285,7 +1285,7 @@ audio {
         border-color: #466baf;
         padding: 10px;
         text-transform: uppercase;
-        font-family: 'Signika', sans-serif;
+        font-family: '宋体', sans-serif;
         font-weight: 700;
         color: #fff;
         background-color: #466baf;
