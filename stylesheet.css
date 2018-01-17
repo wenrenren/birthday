@@ -1079,6 +1079,7 @@ audio {
 	position: fixed;
 	bottom: -200px;
 	opacity: 0.6;
+	margin: auto;
 	z-index: 99;
 	width: 60px;
 	height: 108px;
