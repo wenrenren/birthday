@@ -1081,14 +1081,14 @@ audio {
 	opacity: 0.6;
 	z-index: 99;
 	width: 50px;
-	height: 90px;
+	height: 92px;
 	background-repeat: no-repeat no-repeat;
-	background-size: 50px 90px;
+	background-size: 50px 92px;
 }
 .balloons h2 {
 	text-transform: uppercase;
 	font-family: 'Signika', sans-serif;
-	font-size: 30px;
+	font-size: 25px;
 	color: #BF4136;
 	text-shadow: 5px 5px 5px #FFF;
 	display: none;
